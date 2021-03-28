@@ -1,2 +1,2 @@
-# b-x.com
+# box.com
 "box.com - Female Genitalia, usually used in a derogitory manner."
