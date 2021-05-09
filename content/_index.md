@@ -1,5 +1,5 @@
 ---
-title: 'box.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'box.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 box.com is under construction."
 ---
 
